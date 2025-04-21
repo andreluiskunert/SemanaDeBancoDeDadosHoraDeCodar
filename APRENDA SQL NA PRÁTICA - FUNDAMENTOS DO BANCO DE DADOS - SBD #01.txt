@@ -1,0 +1,73 @@
+Aqui tera as informaçãoes sobre este curso..Aqui tera as informaçãoes sobre este curso:  
+  
+31.964 visualizações  8 de ago. de 2022  #CRUD #PostgreSQL #SQL
+⭐ Inscreva-se na Semana do Banco de Dados: https://materiais.horadecodar.com.br/...
+
+Neste vídeo você vai aprender tudo que é necessário para criar o seu próprio banco de dados e utilizar queries em outros bancos que você trabalha.
+
+Vamos focar bastante nas queries de SELECT, pois são as mais utilizadas em #SQL
+
+Alguns dos assuntos que você vai aprender são:
+
+#CRUD (Create, Read, Update, Delete);
+Joins em SQL (Inner join, Left join, Right join);
+Join de múltiplas tabelas;
+Criação de bancos e tabelas;
+Constraints;
+Principais tipos de dados;
+e muito mais!
+
+O foco é realmente te ensinar SQL desde o básico até o nível intermediário, você vai sair deste vídeo confiante em SQL e poderá trabalhar com qualquer banco relacional, como: #PostgreSQL, sqlite, SQL Server, MariaDB…
+
+Link para download do software: https://dev.mysql.com/downloads/mysql/
+
+🔴 Instagram: @horadecodar
+
+Timestamps by Jeferson:
+
+0:00 - Intro
+3:56 - Os fundamentos do SQL
+4:39 - Qual o nosso objetivo?
+7:10 - O que é um banco de dados
+9:55 - Principais tipos de DB's
+11:16 - Instalando o MySQL
+16:22 - Iniciando com o Workbench
+19:48 - Entendendo o que é uma Query
+20:59 - Query SELECT
+24:53 - Query WHERE
+26:40 - Exercício 01
+27:44 - Ordenando registros
+29:22 - Operações aritméticas
+30:37 - Criando alias
+31:47 - Exercício 02
+33:02 - Query Distinct
+34:57 - Operadores de comparação 01
+37:01 - Exercício 03
+38:30 - Operadores de comparação 02
+41:29 - Exercício 04
+43:28 - Operador IN
+45:06 - Operador BETWEEN
+45:48 - Exercício 05
+47:44 - Operador LIKE()
+50:16 - Exercício 06
+51:05 - Operador REGEXP()
+52:57 - Exercício 07
+54:00 - Operador COUNT()
+55:28 - Operador LIMIT
+56:23 - Exercício 08
+57:06 - JOINs
+1:01:02 - JOINs com multiplas tabelas
+1:03:36 - Exercício 09
+1:05:10 - Operador USING()
+1:06:12 - O que é uma tabela?
+1:07:54 - Principais Constraints
+1:08:54 - Principais tipos de dados
+1:09:39 - Criando um banco de dados
+1:10:20 - Criando uma tabela
+1:12:15 - Inserindo dados em uma tabela
+1:13:18 - Exercício 10
+1:14:33 - Inserindo multiplos dados em uma tabela
+1:15:20 - Atualizando um dado na tabela
+1:16:25 - Deletando um dado na tabela
+1:17:25 - Finalizando aula 01 🔷 Telegram: https://t.me/horadecodar .
+🟣 Discord Hora de Codar:   / discord  
